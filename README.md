@@ -1,4 +1,4 @@
-# Python for Data Analysts and Engineers
+# Python for Data Analysts and Data Engineers
 
 ## **Topics Covered:**
 1. Working with Files  
